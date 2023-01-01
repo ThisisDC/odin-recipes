@@ -1,0 +1,61 @@
+.background{
+    background-color:rgba(237, 233, 157, 1);
+    
+}
+ 
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position:relative; 
+    }
+
+.menu{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position:relative; 
+    text-align: center;
+}
+
+.upper{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position:relative; 
+    text-align: center;
+}
+
+.title{
+    position:relative; 
+    text-align: center;
+}
+
+.menulist{
+    list-style-type:none;
+    position:relative; 
+    left: -20px;
+    
+}
+
+.footer{
+    background-color:rgb(189, 189, 189);
+    height:90px;
+    width:320px;
+    position:relative;
+    left:800px;
+    text-align: center;
+}
+
+.backbutton{
+    position:relative; 
+    top: -650px; 
+    left: 26.5%;
+}
+
+.list{
+    position:relative;
+    left: 26.5%;
+
+
+}
